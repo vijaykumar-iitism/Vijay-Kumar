@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-kumar-iitism&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaykumar-iitism&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
@@ -49,4 +49,4 @@
 </p>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay-kumar-iitism&show_icons=true&locale=en&layout=compact" alt="Vijay Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykumar-iitism&show_icons=true&locale=en&layout=compact" alt="Vijay Kumar" /></p>
