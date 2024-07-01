@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kush-Sharad&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-kumar-iitism&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
